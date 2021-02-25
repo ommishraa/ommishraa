@@ -7,4 +7,4 @@
 <a href="https://www.linkedin.com/in/om-mishra-827143205/"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/iconmonstr-linkedin-4%201.svg?raw=true"></a>
 </p>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/ommishraa/ommishraa/blob/main/assets/wave.gif" width="30px">
