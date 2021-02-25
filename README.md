@@ -1,3 +1,3 @@
-<!-- # [![Om Mishra Header](https://raw.githubusercontent.com/ommishraa/ommishraa/readme_header.png "Header")](https://vocvision.com/) -->
+# [![Om Mishra Header](https://github.com/ommishraa/ommishraa/blob/main/assets/ "Header")](https://vocvision.com/)
 
 ### Hi there 👋
