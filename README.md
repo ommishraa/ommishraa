@@ -1,10 +1,10 @@
 # [![Om Mishra Header](https://github.com/ommishraa/ommishraa/blob/main/assets/2.png)](https://ommishra.in/)
 
 <p align='center'>
-<a href="https://dribbble.com/Om_mishraa"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/dribbble.svg?raw=true"></a>
-<a href="https://twitter.com/Om_Vocvision"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/twitter.svg?raw=true"></a>
-<a href="https://www.instagram.com/om_vocvision/"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/instagram.svg?raw=true"></a>
-<a href="https://www.linkedin.com/in/om-mishra-827143205/"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/iconmonstr-linkedin-4%201.svg?raw=true"></a>
+<a href="https://dribbble.com/ommishraa"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/dribbble.svg?raw=true"></a>
+<a href="https://twitter.com/ommishrra"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/twitter.svg?raw=true"></a>
+<a href="https://www.instagram.com/ommishrra/"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/instagram.svg?raw=true"></a>
+<a href="https://www.linkedin.com/in/om-mishra-64b8b9253/"><img height="40" src="https://github.com/ommishraa/ommishraa/blob/main/assets/icons/iconmonstr-linkedin-4%201.svg?raw=true"></a>
 </p>
 
 # Hello, folks! <img src="https://github.com/ommishraa/ommishraa/blob/main/assets/wave.gif" width="30px">
