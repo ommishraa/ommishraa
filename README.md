@@ -9,9 +9,7 @@
 
 # Hello, folks! <img src="https://github.com/ommishraa/ommishraa/blob/main/assets/wave.gif" width="30px">
 
-I am a productive guy, who has hungry nature for getting knowledge and using those knowledge as soon as possible for real time solutions 😊 .
-
-Creative UI Designer with 2 years facilitating and supporting human interactions with complex systems and software. Maintains user-centric designs while adhering to prescribed interface principals and related development goals. Dedicated to creating inviting and unintimidating interfaces for everything from simple open-source applications to complex proprietary systems.
+Application Developer and DevOps Engineer, B. SC. in Computer Science passionate about Mobile Programming with 3 years experience in mobile development(Android native&Flutter) Looking for opportunities as an application developer with an expert team of developers who will help advance my career.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
