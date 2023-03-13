@@ -9,7 +9,7 @@
 
 # Hello, folks! <img src="https://github.com/ommishraa/ommishraa/blob/main/assets/wave.gif" width="30px">
 
-Application Developer and DevOps Engineer, B. SC. in Computer Science passionate about Mobile Programming with 3 years experience in mobile development(Android native&Flutter) Looking for opportunities as an application developer with an expert team of developers who will help advance my career.
+Application Developer and DevOps Engineer, B. SC. in Computer Science passionate about Mobile Programming with 3 years experience in mobile development(Android native&Flutter).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
